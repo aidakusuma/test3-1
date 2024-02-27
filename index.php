@@ -8,6 +8,8 @@
 <body>
     <h1>helo word<h1>
     <p>pusing bingit bro<p>
-    
+    <ul>
+        <li>stau<li>
+    <ul>
 </body>
 </html>
